@@ -81,12 +81,12 @@ All learning notes are available in the `/notes` folder
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Punaa-Embrace&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punaa-Embrace&layout=compact&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Putsaa&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putsaa&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Punaa-Embrace&theme=radical&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Putsaa&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -99,8 +99,8 @@ All learning notes are available in the `/notes` folder
   <img src="https://img.shields.io/badge/Email-syaapuna%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Punaa-Embrace">
-  <img src="https://img.shields.io/badge/GitHub-Punaa--Embrace-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Putsaa">
+  <img src="https://img.shields.io/badge/GitHub-Putsaa-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://wa.me/62895336892177">
@@ -116,3 +116,6 @@ All learning notes are available in the `/notes` folder
 <p align="center">
 💡 "Consistency beats talent."
 </p>
+
+
+
