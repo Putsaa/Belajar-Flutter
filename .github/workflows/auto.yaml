@@ -33,7 +33,7 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config --global user.name "Punaa-Embrace"
+          git config --global user.name "Putsaa"
           git config --global user.email "putrabtm055@gmail.com"
 
           git add .

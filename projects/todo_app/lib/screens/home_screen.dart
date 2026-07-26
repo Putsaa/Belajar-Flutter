@@ -64,14 +64,24 @@ class _HomeScreenState extends State<HomeScreen> {
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        const Text(
-                          "My Tasks",
-                          style: TextStyle(
-                            fontSize: 36,
-                            fontWeight: FontWeight.w900,
-                            letterSpacing: 1.2,
-                            color: Colors.white,
-                          ),
+                        Row(
+                          children: [
+                            Image.asset(
+                              'assets/logo.png',
+                              width: 48,
+                              height: 48,
+                            ),
+                            const SizedBox(width: 12),
+                            const Text(
+                              "My Tasks",
+                              style: TextStyle(
+                                fontSize: 36,
+                                fontWeight: FontWeight.w900,
+                                letterSpacing: 1.2,
+                                color: Colors.white,
+                              ),
+                            ),
+                          ],
                         ),
                         const SizedBox(height: 8),
                         Text(
