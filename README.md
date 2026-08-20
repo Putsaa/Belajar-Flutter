@@ -47,12 +47,12 @@ projects/
 | Project        | Status |
 | -------------- | ------ |
 | Counter App    | ✅     |
-| Todo App       | 🔄      |
-| API App        | ⏳      |
-| Auth App       | ⏳      |
-| Quran Memo App | ⏳      |
-| Ecommerce App  | ⏳      |
-| Dashboard App  | ⏳      |
+| Todo App       | ✅     |
+| API App        | ✅     |
+| Auth App       | 🔄     |
+| Quran Memo App | ⏳     |
+| Ecommerce App  | ⏳     |
+| Dashboard App  | ⏳     |
 
 ---
 
@@ -101,10 +101,6 @@ All learning notes are available in the `/notes` folder
 
 <a href="https://github.com/Putsaa">
   <img src="https://img.shields.io/badge/GitHub-Putsaa-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://wa.me/62895336892177">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
